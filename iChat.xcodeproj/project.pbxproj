@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7D7459A92A884DC6001BF654 /* iChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7459A82A884DC6001BF654 /* iChatApp.swift */; };
-		7D7459AB2A884DC6001BF654 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7459AA2A884DC6001BF654 /* ContentView.swift */; };
+		7D7459AB2A884DC6001BF654 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7459AA2A884DC6001BF654 /* SignInView.swift */; };
 		7D7459AD2A884DCD001BF654 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D7459AC2A884DCD001BF654 /* Assets.xcassets */; };
 		7D7459B02A884DCD001BF654 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D7459AF2A884DCD001BF654 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		7D7459A52A884DC6001BF654 /* iChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D7459A82A884DC6001BF654 /* iChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iChatApp.swift; sourceTree = "<group>"; };
-		7D7459AA2A884DC6001BF654 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7D7459AA2A884DC6001BF654 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
 		7D7459AC2A884DCD001BF654 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D7459AF2A884DCD001BF654 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				7D7459A82A884DC6001BF654 /* iChatApp.swift */,
-				7D7459AA2A884DC6001BF654 /* ContentView.swift */,
+				7D7459AA2A884DC6001BF654 /* SignInView.swift */,
 				7D7459AC2A884DCD001BF654 /* Assets.xcassets */,
 				7D7459AE2A884DCD001BF654 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D7459AB2A884DC6001BF654 /* ContentView.swift in Sources */,
+				7D7459AB2A884DC6001BF654 /* SignInView.swift in Sources */,
 				7D7459A92A884DC6001BF654 /* iChatApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
